@@ -1,4 +1,4 @@
-# M25CSE024-A2
+# NLU Assignment 2
 
 ## Description
 This repository contains solutions for Assignment 2.
