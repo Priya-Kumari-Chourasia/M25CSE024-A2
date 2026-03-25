@@ -1,7 +1,7 @@
 # M25CSE024-A2
 
 ## Description
-This repository contains solutions for Assignment 2, covering two major problems in Natural Language Processing and Deep Learning.
+This repository contains solutions for Assignment 2.
 
 ### Problem 1: Learning Word Embeddings from IIT Jodhpur Data
 - Data collection and preprocessing from IIT Jodhpur sources  
